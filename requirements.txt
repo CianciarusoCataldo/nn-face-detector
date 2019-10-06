@@ -5,3 +5,4 @@ tensorflow==1.12.3
 Pillow==6.0.0
 Flask==1.0.2
 waitress
+configparser
