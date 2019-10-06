@@ -43,7 +43,7 @@ class Detector_Server:
         return self._age_detector.detect_age(image)
 
     def get_result(self):
-        result="FACE"
+        result=""
         for i in range(len(self._faces)):
             face=self._faces[i]
             emotion=self._emotions[i]
