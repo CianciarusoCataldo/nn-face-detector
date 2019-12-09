@@ -1,6 +1,6 @@
 # encoding=utf8
-#Object, face, gender and age detector using Tensorflow, Keras and Pytorch.
-#This version is integrated with dedicated hhtp server.
+#Face, gender and age detector using Tensorflow, Keras and Pytorch.
+#This version is integrated with dedicated http server.
 #
 #author: Cataldo Cianciaruso
 
